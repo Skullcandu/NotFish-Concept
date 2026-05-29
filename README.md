@@ -1,5 +1,7 @@
 # 🎣 NotFish: Diseño Conceptual Antifraude Basado en IA
 
+![Logo NotFish AI](assets/NotFish-logo.png)
+
 ## 🎯 Resumen del Proyecto
 NotFish es un diseño arquitectónico conceptual para una extensión de navegador orientada a la protección proactiva del usuario final. Su objetivo principal es identificar, alertar y mitigar campañas de phishing e ingeniería social en tiempo real utilizando capacidades teóricas de Inteligencia Artificial.
 
